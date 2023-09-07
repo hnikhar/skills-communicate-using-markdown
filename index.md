@@ -10,3 +10,5 @@
 ###### - 😄 Pronouns: She/her
 ###### - ⚡ Assistant Chief Operating Officer for Google Developer Student Club at CMU
 ###### - 🚀 Google Women Techmakers Ambassador
+
+![Image of Spidertocat](https://octodex.github.com/images/spidertocat.png)
