@@ -19,3 +19,8 @@
 var myMessage = "Sending you a world of smiles! 😊";
 ```
 
+- [x] Turn on GitHub Pages
+- [x] Outline my portfolio
+- [ ] Introduce myself to the world
+- [ ] Learn this course
+- [ ] Complete AWS and GCP certifications
