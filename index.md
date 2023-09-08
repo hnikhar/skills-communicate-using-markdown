@@ -12,3 +12,10 @@
 ###### - 🚀 Google Women Techmakers Ambassador
 
 ![Image of Spidertocat](https://octodex.github.com/images/spidertocat.png)
+
+
+
+``` javascript
+var myMessage = "Sending you a world of smiles! 😊";
+```
+
